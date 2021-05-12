@@ -1,0 +1,242 @@
+Due May 19 by 11:59pm Points 40 Submitting a website url Available May 3 at 9am - May 19 at 11:59pm 17 days
+Project Overview  
+
+We have consulted with our Industry Advisory Board and a major component for job consideration is that a student should be able to show a list of projects that they have completed, along with easy to access information about your work history and current Github activity. Your portfolio is one link that can be provided to future employers to showcase your skills and present easily accessible information about you.
+
+ 
+
+Objectives:
+
+Use Bootstrap to build a responsive application.
+Use modern front end development tools.
+Create one central domain for organizing projects, biographical information, and employer contact info.
+ 
+
+Portfolio Requirements:
+
+To complete your portfolio you will need to complete the following requirements:
+
+Portfolio
+Landing/Header Section
+Navbar
+About Me
+Projects Section
+Static Layout Application
+Creature Assignment
+API Project #1
+API Project #2
+Blue Badge TBA
+Red Badge TBA
+Contact Section
+Footer
+ 
+
+Portfolio Requirements
+The following list contains the bare essential requirements that you’ll need to have in your portfolio to receive a badge from Eleven Fifty:
+
+The site is aesthetically pleasing overall and is tailored in a way that exhibits your unique professional personality.
+The site uses HTML, CSS, & Bootstrap to properly divide content and to account for a variety of devices. 
+The CSS styling goes beyond the minimal components(e.g., background color and font color), and provides an engaging user experience.
+The site is highly navigable with its buttons. All buttons are functioning properly and even have features that accentuate the texture of the buttons.
+The site has thumbnails with links that show examples of work you’ve built in this course. These will include links to the CSS Creature, Static Layout Assignment, API #1 Assignment, and API #2 Assignment or samples/links to Repl.it projects, Codepen.io projects,  and any projects you've done in the past or on the side. Essentially, these are links that showcase your original work.
+The site provides detailed information for employers to contact you, including LinkedIn and Github info/buttons.
+The site also has a working contact form using Formspree.io.
+The portfolio has an about feature that tells your story as a developer and professional.
+The site is free of spelling errors and typos.
+The site has been completed in a timely fashion.
+Your resume should be included and downloadable.
+The site is deployed to Github pages.
+Note: If you would like to omit something on this list for any reason, please speak to the instructors in person.
+Note: You may NOT use a prebuilt template for your Portfolio. This project needs to be completely built by you.
+
+Outside Documentation (Links to an external site.)
+
+Student Portfolio Examples
+Brandon Schaaf: https://bxrandonschaaf.github.io/ (Links to an external site.)
+
+Mady Ward: https://madysonward.github.io/qualifications.html (Links to an external site.)
+
+Matt Kory: https://matthewskory.github.io/ (Links to an external site.)
+
+Dave Mazmanian: http://davemaz.com/ (Links to an external site.)
+
+Carolyn Harris: https://ccharris.github.io/ (Links to an external site.)
+
+Jeremy Wuestef: https://jwuestef.github.io/ (Links to an external site.)
+
+ 
+
+Submission
+Submit the link to your portfolio's GitHub repository, NOT the deployed link.
+
+
+Portfolio
+Criteria	Ratings	Pts
+This criterion is linked to a Learning OutcomeBootstrap
+6 to >5.9 pts
+Advanced
+The project does an exemplary job of demonstrating understanding and use of CSS Flexbox Layout and Bootstrap's Grid System.
+5.9 to >4.0 pts
+Proficient
+The project does a good job of demonstrating understanding and use of CSS Flexbox Layout and Bootstrap's Grid System.
+4 to >2.0 pts
+Basic
+The project utilizes CSS Flexbox Layout and Bootstrap's Grid System on some elements in the HTML file.
+2 to >0.0 pts
+In Progress
+The student may have struggled to utilize CSS Flexbox Layout and Bootstrap's Grid System in the project.
+0 pts
+Growth Opportunity
+Student needs to speak with instructors about meeting this criteria.
+6 pts
+This criterion is linked to a Learning OutcomeStyling
+6 to >5.9 pts
+Advanced
+The project does an exemplary job of demonstrating HTML and CSS skills with its use of space and aesthetics and is tailored in a way that exhibits the student's unique professional personality.
+5.9 to >4.0 pts
+Proficient
+The project does a good job of demonstrating HTML and CSS skills with its use of space and aesthetics and is tailored to exhibit the student's unique professional personality.
+4 to >2.0 pts
+Basic
+The project's aesthetics are good but possibly incomplete.
+2 to >0.0 pts
+In Progress
+Student’s styling did not exceed basic styling (ie background and font color changes).
+0 pts
+Growth Opportunity
+Student needs to speak with instructors about meeting this criteria.
+6 pts
+This criterion is linked to a Learning OutcomeNavbar
+3 pts
+Proficient
+The portfolio includes a functioning navbar that has been styled and goes well with the overall theme along with having a working links that navigate to each of the sections of the portfolio.
+2 pts
+Basic
+The portfolio included a basic navbar with links which may or may not be fully functioning.
+1 pts
+In Progress
+The portfolio includes the foundations for or a barely constructed navbar.
+0 pts
+Growth Opportunity
+Student needs to speak with instructors about meeting this criteria.
+3 pts
+This criterion is linked to a Learning OutcomeLanding Section
+3 pts
+Proficient
+The portfolio includes a landing section that has been styled and goes well with the overall theme
+2 pts
+Basic
+The application includes a basic landing section.
+1 pts
+In Progress
+The portfolio includes the foundations for or a barely constructed landing section.
+0 pts
+Growth Opportunity
+Student needs to speak with instructors about meeting this criteria.
+3 pts
+This criterion is linked to a Learning OutcomeAbout Section
+3 pts
+Proficient
+The portfolio includes an about section that has been styled and goes well with the overall theme and tells the student's story as a developer and professional.
+2 pts
+Basic
+The application includes a basic about section.
+1 pts
+In Progress
+The portfolio includes the foundations for or a barely constructed about section.
+0 pts
+Growth Opportunity
+Student needs to speak with instructors about meeting this criteria.
+3 pts
+This criterion is linked to a Learning OutcomeProject Section
+3 pts
+Proficient
+The portfolio includes a project section that has been styled and goes well with the overall theme and includes thumbnails with links that showcase examples of the student's original work.
+2 pts
+Basic
+The application includes a basic project section.
+1 pts
+In Progress
+The portfolio includes the foundations for or a barely constructed project section.
+0 pts
+Growth Opportunity
+Student needs to speak with instructors about meeting this criteria.
+3 pts
+This criterion is linked to a Learning OutcomeContact Section
+3 pts
+Proficient
+The portfolio includes a contact section that has been styled and goes well with the overall theme along with having a working Formspree.
+2 pts
+Basic
+The application includes a basic contact section.
+1 pts
+In Progress
+The portfolio includes the foundations for or a barely constructed contact section.
+0 pts
+Growth Opportunity
+Student needs to speak with instructors about meeting this criteria.
+3 pts
+This criterion is linked to a Learning OutcomeFooter Section
+3 pts
+Proficient
+The portfolio includes a footer that has been styled and goes well with the overall theme
+2 pts
+Basic
+The application includes a basic footer section.
+1 pts
+In Progress
+The portfolio includes the foundations for or a barely constructed footer.
+0 pts
+Growth Opportunity
+Student needs to speak with instructors about meeting this criteria.
+3 pts
+This criterion is linked to a Learning OutcomeNavigable Buttons
+3 pts
+Proficient
+All buttons work and are styled well with the page overall.
+2 pts
+Basic
+Most of the buttons work.
+1 pts
+In Progress
+Some of the buttons work.
+0 pts
+Growth Opportunity
+Student needs to speak with instructors about meeting this criteria.
+3 pts
+This criterion is linked to a Learning OutcomeSpelling
+2 pts
+Complete
+The application is free of spelling errors and typos.
+1 pts
+Partial Complete
+The application may have a few spelling errors and typos.
+0 pts
+Incomplete
+Student needs to speak with instructors about meeting this criteria.
+2 pts
+This criterion is linked to a Learning OutcomeResume
+1 pts
+Complete
+The application includes the student's resume and can be downloaded.
+0 pts
+Incomplete
+Student needs to speak with instructors about meeting this criteria.
+1 pts
+This criterion is linked to a Learning OutcomeDeployed
+2 pts
+Complete
+The application is deployed with GitHub Pages and can be accessed through the deployed link.
+0 pts
+Incomplete
+Student needs to speak with instructors about meeting this criteria.
+2 pts
+This criterion is linked to a Learning OutcomeSubmission
+2 pts
+Complete
+The application was completed in a timely fashion
+0 pts
+Incomplete
+Student needs to speak with instructors about meeting this criteria.
+2 pts
+Total Points: 40
