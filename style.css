@@ -15,7 +15,7 @@ img {
 }
 
 p {
-  font-family: 'Tinos', serif;
+  font-family: 'Roboto', sans-serif;
 }
 p.thick {
   font-weight: bold;
@@ -43,6 +43,7 @@ p.thick {
 
 #box1, #box2, #box3, #box4, #box5, #box6, #box7 {
 	scroll-behavior: smooth;
+  font-family:'Roboto', sans-serif;
 } 
 .topnav {  
   padding:10px 10px 10px 10px;
